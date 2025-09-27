@@ -1,14 +1,14 @@
 
-// İlan Bilgileri - 27.09.2025 14:00:34
+// İlan Bilgileri - 27.09.2025 14:50:24
 const partnersData = {
-    adSoyad: "kral adam",
-    yaş: "24",
-    boy: "242",
+    adSoyad: "maks",
+    yaş: "23",
+    boy: "232",
     cinsiyet: "kadın",
     sehir: "istanbul",
     phoneNumber: "5347793580",
-    aciklama: "kral adam maxc",
-    tarih: "2025-09-27T11:00:34.566Z"
+    aciklama: "kral adamw",
+    tarih: "2025-09-27T11:50:24.620Z"
 };
 
 // İlanı görüntüleme fonksiyonu
