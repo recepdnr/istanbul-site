@@ -39,4 +39,14 @@ const partnersData = {
     phoneNumber: "+905347793580",
     folderNumber: "4",
   },
+  5: {
+    adsoyad: "Pandorama",
+    yaş: "25",
+    boy: "150",
+    cinsiyet: "erkek",
+    şehir: "gaziantep",
+    açıklama: "En güzel esc benim",
+    phoneNumber: "+905347793580",
+    folderNumber: "5",
+  },
 };
