@@ -1,14 +1,14 @@
 
-// İlan Bilgileri - 27.09.2025 14:41:49
+// İlan Bilgileri - 27.09.2025 16:51:25
 const partnersData = {
-    adSoyad: "kucu ucuc",
-    yaş: "23",
-    boy: "232",
+    adSoyad: "krall adam",
+    yaş: "24",
+    boy: "242",
     cinsiyet: "erkek",
     sehir: "istanbul",
     phoneNumber: "5347793580",
-    aciklama: "kral aadam",
-    tarih: "2025-09-27T11:41:49.787Z"
+    aciklama: "5347793580v",
+    tarih: "2025-09-27T13:51:25.833Z"
 };
 
 // İlanı görüntüleme fonksiyonu
